@@ -15,7 +15,7 @@
 		handle: 'Cheriyal Mask',
 		url: 'https://en.wikipedia.org/wiki/Cheriyal_scroll_painting#The_Tradition',
 		entry: './assets/cherial-mask.jpg',
-		background: 'hsl(198, 5%, 50%)'
+		background: 'hsl(0, 0%, 0%)'
 	}, {
 		handle: 'Jamini Roy',
 		url: 'https://en.wikipedia.org/wiki/Jamini_Roy#Style',
